@@ -1,6 +1,6 @@
 # MatrixChainMultiplication
 Saw a pattern an decided to replicate it. 
-It may or may not be an exact replication of MCM, but I did it based it's behavior and not on pseudocode. 
+It may or may not be an exact replication of MCM (pseudocode-wise), but I did it based it's behavior and not on pseudocode. 
 Produces the same output either way.
 
 The purpose of MCM is to find the optimal order to multiply matrices.
