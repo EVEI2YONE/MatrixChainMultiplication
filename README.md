@@ -11,13 +11,13 @@ Designed to read input via initial array.
 To use, simply edit the values inside to calculate minimal operations needed.
 
 e.g.
-Matrix - dimension
-A1 - 30 x 35
-A2 - 35 x 15
-A3 - 15 x 5
-A4 - 5 x 10
-A5 - 10 x 20
-A6 - 20 x 25
+Matrix - dimension:
+A1 - 30 x 35,
+A2 - 35 x 15,
+A3 - 15 x 5,
+A4 - 5 x 10,
+A5 - 10 x 20,
+A6 - 20 x 25,
 
 should be input as: [30, 35, 15, 5, 10, 20, 25], and
 this will output the contents similar to usual MCM layout (check Google - MCM dynamic programming examples)
